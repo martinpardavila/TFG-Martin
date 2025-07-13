@@ -15,3 +15,7 @@ Estas grabaciones provienen de la plataforma colaborativa [Xeno-Canto](https://x
 ### 
 
 Una vez descargadas, ubica train_audio en el mismo directorio que mejores_pajaros_seleccion.ipynb
+
+###
+
+También se ha empleado, tal y como se puede observar en el código, un train_total.csv. Esto no es más que la unión entre los distintos csv; el del dataset original y los de sus extensiones.
