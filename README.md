@@ -10,7 +10,7 @@ Los datos pueden descargarse desde las siguientes fuentes públicas:
 - [Xeno-Canto Bird Recordings (Extended A-M)](https://www.kaggle.com/datasets/rohanrao/xeno-canto-bird-recordings-extended-a-m)
 - [Xeno-Canto Bird Recordings (Extended N-Z)](https://www.kaggle.com/datasets/rohanrao/xeno-canto-bird-recordings-extended-n-z)
 
-Estas grabaciones provienen de la plataforma colaborativa [Xeno-Canto](https://xeno-canto.org/), y están distribuidas bajo licencia Creative Commons.
+Estas grabaciones provienen de la plataforma colaborativa [Xeno-Canto](https://xeno-canto.org/).
 
 ### 
 
